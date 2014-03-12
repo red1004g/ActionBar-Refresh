@@ -9,6 +9,9 @@ out/
 .classpath
 .settings
 
+# Dependency project wetting file
+project.properties
+
 # files for the dex VM
 *.dex
 
